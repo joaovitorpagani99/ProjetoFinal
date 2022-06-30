@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LevaEu</string>
+    <string name="title_sair">Sair</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/background.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/buttom.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/buttom_face.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/button_cadastrar.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/cad_background.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/container_componente.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/draw.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/edit_text.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_baseline_add_location_24.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_baseline_comment_24.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/ic_perm.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/logo_background.xml" value="0.2155" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/opcao.xml" value="0.2465" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/seta_voltar.xml" value="0.163" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/sinal_nova_carona.xml" value="0.233" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/drawable/toolbar.xml" value="0.163" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/activity_cad_carro.xml" value="0.3625" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/activity_maps.xml" value="0.3625" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/activity_tela_avaliacao.xml" value="0.3625" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/activity_tela_cad.xml" value="0.3625" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/activity_tela_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/activity_tela_motorista.xml" value="0.3484375" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/activity_tela_passageiro.xml" value="0.3625" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/layout/toolbar.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1225" />
+        <entry key="..\:/Users/joaov/AndroidStudioProjects/LevaEu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
